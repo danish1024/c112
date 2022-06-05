@@ -3,7 +3,7 @@ prediction_1 = ""
 prediction_2 = ""
 
 
-webcam.set({
+Webcam.set({
     width:350,
     height:300,
     image_format : 'png',
